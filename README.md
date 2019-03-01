@@ -1,3 +1,3 @@
 # R-index-data
-Collaboration data for R index research in Costa Rica  
+Data example from Appendix A of the paper: The verbal 9-point hedonic scale: Increasing power by eliminating artifactual ties  
 DOI: 10.5281/zenodo.2581548
